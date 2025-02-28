@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\ConveyorBelt\bin\Debug\net8.0\ConveyorBelt.exe
+C:\Users\Student\source\repos\ConveyorBelt\bin\Debug\net8.0\ConveyorBelt.deps.json
+C:\Users\Student\source\repos\ConveyorBelt\bin\Debug\net8.0\ConveyorBelt.runtimeconfig.json
+C:\Users\Student\source\repos\ConveyorBelt\bin\Debug\net8.0\ConveyorBelt.dll
+C:\Users\Student\source\repos\ConveyorBelt\bin\Debug\net8.0\ConveyorBelt.pdb
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.AssemblyInfo.cs
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.sourcelink.json
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.dll
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\refint\ConveyorBelt.dll
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.pdb
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ConveyorBelt.genruntimeconfig.cache
+C:\Users\Student\source\repos\ConveyorBelt\obj\Debug\net8.0\ref\ConveyorBelt.dll
